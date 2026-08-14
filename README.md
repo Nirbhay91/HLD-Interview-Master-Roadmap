@@ -15,9 +15,7 @@ Each topic will be covered in this sequence:
 7. Interview-ready answer
 8. Follow-up questions and edge cases
 
-## Phases
-
-### Phase 1 — HLD Fundamentals
+# Phase 1 — HLD Fundamentals
 
 - [01. HLD vs LLD](Phase-1-HLD-Fundamentals/01-HLD-vs-LLD.md)
 - [02. Functional vs Non-Functional Requirements](Phase-1-HLD-Fundamentals/02-Functional-vs-Non-Functional-Requirements.md)
@@ -31,38 +29,126 @@ Each topic will be covered in this sequence:
 - [10. PACELC](Phase-1-HLD-Fundamentals/10-PACELC.md)
 - [11. ACID vs BASE](Phase-1-HLD-Fundamentals/11-ACID-vs-BASE.md)
 
-### Phase 2 — Database and Storage
+# Phase 2 — Database and Storage
 
-Coming next.
+- [01. Database Fundamentals](Phase-2-Database-and-Storage/01-Database-Fundamentals.md)
+- [02. Database Scaling](Phase-2-Database-and-Storage/02-Database-Scaling.md)
+- [03. Distributed Database Concepts](Phase-2-Database-and-Storage/03-Distributed-Database-Concepts.md)
+- [04. Caching](Phase-2-Database-and-Storage/04-Caching.md)
 
-### Phase 3 — Distributed Systems
+# Phase 3 — Core Distributed System Components
 
-Coming next.
+- [01. Message Queues](Phase-3-Distributed-System-Components/01-Message-Queues.md)
+- [02. Event-Driven Architecture](Phase-3-Distributed-System-Components/02-Event-Driven-Architecture.md)
+- [03. API Design](Phase-3-Distributed-System-Components/03-API-Design.md)
+- [04. Rate Limiter](Phase-3-Distributed-System-Components/04-Rate-Limiter.md)
 
-### Phase 4 — Reliability and Resilience
+# Phase 4 — Reliability and Resilience
 
-Coming next.
+- [01. Fault Tolerance](Phase-4-Reliability-and-Resilience/01-Fault-Tolerance.md)
+- [02. Distributed System Problems](Phase-4-Reliability-and-Resilience/02-Distributed-System-Problems.md)
+- [03. Distributed Transactions](Phase-4-Reliability-and-Resilience/03-Distributed-Transactions.md)
 
-### Phase 5 — Communication and Infrastructure
+# Phase 5 — Communication and Infrastructure
 
-Coming next.
+- [01. Service Communication](Phase-5-Communication-and-Infrastructure/01-Service-Communication.md)
+- [02. Service Discovery](Phase-5-Communication-and-Infrastructure/02-Service-Discovery.md)
+- [03. API Gateway](Phase-5-Communication-and-Infrastructure/03-API-Gateway.md)
+- [04. CDN](Phase-5-Communication-and-Infrastructure/04-CDN.md)
+- [05. Object and File Storage](Phase-5-Communication-and-Infrastructure/05-Object-and-File-Storage.md)
 
-### Phase 6 — Security
+# Phase 6 — Security
 
-Coming next.
+- [01. Authentication](Phase-6-Security/01-Authentication.md)
+- [02. Authorization](Phase-6-Security/02-Authorization.md)
+- [03. Security in Distributed Systems](Phase-6-Security/03-Security-in-Distributed-Systems.md)
 
-### Phase 7 — Observability
+# Phase 7 — Observability
 
-Coming next.
+- [01. Logging](Phase-7-Observability/01-Logging.md)
+- [02. Metrics](Phase-7-Observability/02-Metrics.md)
+- [03. Distributed Tracing](Phase-7-Observability/03-Distributed-Tracing.md)
+- [04. Monitoring and Alerting](Phase-7-Observability/04-Monitoring-and-Alerting.md)
 
-### Phase 8 — HLD Estimation
+# Phase 8 — HLD Estimation
 
-Coming next.
+- [01. Back-of-the-Envelope Estimation](Phase-8-HLD-Estimation/01-Back-of-the-Envelope-Estimation.md)
 
-### Phase 9 — System Design Patterns
+# Phase 9 — System Design Patterns
 
-Coming next.
+- [01. Important HLD Patterns](Phase-9-System-Design-Patterns/01-Important-HLD-Patterns.md)
 
-## System Design Practice
+# Phase 10 — System Design Problems
 
-Full system-design problems will be added after the fundamentals are completed.
+## Tier 1 — Must Do
+
+1. Ride Sharing App
+2. Gmail
+3. WhatsApp
+4. Zoom
+5. Google Docs
+6. Dropbox
+7. Spotify
+8. Google Maps
+9. Twitter/X
+10. Video Streaming Service (Netflix/YouTube)
+11. BookMyShow
+12. Uber
+13. Zomato
+14. Swiggy
+15. Flipkart
+
+## Tier 2 — Very Important
+
+16. AWS Lambda
+17. Tinder
+18. Event Calendar
+19. Cryptocurrency Exchange
+20. Codepair Platform
+21. Chat System
+22. BitTorrent
+23. Distributed Search
+24. Pinterest
+25. Logistics System
+26. Online Hotel Booking System
+27. Udaan
+
+## Tier 3 — Additional Practice
+
+28. Lift/Elevator System
+29. 2048 Game
+30. Splitwise
+31. Game Engine
+32. Newsletter Service
+33. Mentorship Platform
+34. Music Recognition System (Shazam)
+35. CricInfo/Cricbuzz
+36. E-Commerce Review System
+37. Online Book Reader System
+38. Blockchain
+39. Maps Navigator Client
+40. Tic Tac Toe
+41. Configuration Management System
+42. Vending Machine
+43. Food Delivery App
+44. Ola
+
+## System Design Solution Framework
+
+For every problem we will follow:
+
+1. Requirements — Functional + Non-Functional
+2. Scale Estimation
+3. API Design
+4. High-Level Architecture
+5. Database / Data Model
+6. Cache and Storage
+7. Communication and Events
+8. Scaling Strategy
+9. Reliability and Failure Handling
+10. Security
+11. Bottlenecks and Trade-offs
+12. Interview Follow-up Questions
+13. 2–3 minute Interview Summary
+
+> The problem list is intentionally organized for interview preparation. Detailed solutions will be added one problem at a time after the fundamentals are studied.
