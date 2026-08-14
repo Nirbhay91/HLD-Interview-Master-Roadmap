@@ -148,10 +148,32 @@ Each topic will be covered in this sequence:
 - [31. Distributed Rate Limiting](Phase-3-Distributed-System-Components/31-Distributed-Rate-Limiting.md)
 - [32. Redis-Based Implementation](Phase-3-Distributed-System-Components/32-Redis-Based-Implementation.md)
 
-# Phase 4 — Reliability and Resilience
-- [01. Fault Tolerance](Phase-4-Reliability-and-Resilience/01-Fault-Tolerance.md)
-- [02. Distributed System Problems](Phase-4-Reliability-and-Resilience/02-Distributed-System-Problems.md)
-- [03. Distributed Transactions](Phase-4-Reliability-and-Resilience/03-Distributed-Transactions.md)
+# Phase 4 — Reliability & Resilience
+
+## 13. Fault Tolerance
+- [01. Retry](Phase-4-Reliability-and-Resilience/01-Retry.md)
+- [02. Exponential Backoff](Phase-4-Reliability-and-Resilience/02-Exponential-Backoff.md)
+- [03. Timeout](Phase-4-Reliability-and-Resilience/03-Timeout.md)
+- [04. Circuit Breaker](Phase-4-Reliability-and-Resilience/04-Circuit-Breaker.md)
+- [05. Bulkhead](Phase-4-Reliability-and-Resilience/05-Bulkhead.md)
+- [06. Failover](Phase-4-Reliability-and-Resilience/06-Failover.md)
+- [07. Graceful Degradation](Phase-4-Reliability-and-Resilience/07-Graceful-Degradation.md)
+
+## 14. Distributed Systems Problems
+- [08. Network Partition](Phase-4-Reliability-and-Resilience/08-Network-Partition.md)
+- [09. Duplicate Messages](Phase-4-Reliability-and-Resilience/09-Duplicate-Messages.md)
+- [10. Message Loss](Phase-4-Reliability-and-Resilience/10-Message-Loss.md)
+- [11. Out-of-Order Events](Phase-4-Reliability-and-Resilience/11-Out-of-Order-Events.md)
+- [12. Idempotency](Phase-4-Reliability-and-Resilience/12-Idempotency.md)
+- [13. Exactly-Once vs At-Least-Once](Phase-4-Reliability-and-Resilience/13-Exactly-Once-vs-At-Least-Once.md)
+- [14. Distributed Locking](Phase-4-Reliability-and-Resilience/14-Distributed-Locking.md)
+
+## 15. Distributed Transactions
+- [15. Two-Phase Commit (2PC)](Phase-4-Reliability-and-Resilience/15-2PC.md)
+- [16. Saga Pattern](Phase-4-Reliability-and-Resilience/16-Saga-Pattern.md)
+- [17. Choreography](Phase-4-Reliability-and-Resilience/17-Choreography.md)
+- [18. Orchestration](Phase-4-Reliability-and-Resilience/18-Orchestration.md)
+- [19. Compensating Transactions](Phase-4-Reliability-and-Resilience/19-Compensating-Transactions.md)
 
 # Phase 5 — Communication and Infrastructure
 - [01. Service Communication](Phase-5-Communication-and-Infrastructure/01-Service-Communication.md)
