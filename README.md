@@ -17,6 +17,8 @@ Each topic will be covered in this sequence:
 
 # Phase 1 — HLD Fundamentals
 
+## 1. System Design Basics
+
 - [01. HLD vs LLD](Phase-1-HLD-Fundamentals/01-HLD-vs-LLD.md)
 - [02. Functional vs Non-Functional Requirements](Phase-1-HLD-Fundamentals/02-Functional-vs-Non-Functional-Requirements.md)
 - [03. Scalability](Phase-1-HLD-Fundamentals/03-Scalability.md)
@@ -28,6 +30,40 @@ Each topic will be covered in this sequence:
 - [09. CAP Theorem](Phase-1-HLD-Fundamentals/09-CAP-Theorem.md)
 - [10. PACELC](Phase-1-HLD-Fundamentals/10-PACELC.md)
 - [11. ACID vs BASE](Phase-1-HLD-Fundamentals/11-ACID-vs-BASE.md)
+
+## 2. Architecture
+
+- [12. Monolith](Phase-1-HLD-Fundamentals/12-Monolith.md)
+- [13. Modular Monolith](Phase-1-HLD-Fundamentals/13-Modular-Monolith.md)
+- [14. Microservices](Phase-1-HLD-Fundamentals/14-Microservices.md)
+- [15. SOA](Phase-1-HLD-Fundamentals/15-SOA.md)
+- [16. Event-Driven Architecture](Phase-1-HLD-Fundamentals/16-Event-Driven-Architecture.md)
+- [17. Client-Server Architecture](Phase-1-HLD-Fundamentals/17-Client-Server.md)
+- [18. Layered Architecture](Phase-1-HLD-Fundamentals/18-Layered-Architecture.md)
+- [19. Async Architecture](Phase-1-HLD-Fundamentals/19-Async-Architecture.md)
+- [20. Sync vs Async Communication](Phase-1-HLD-Fundamentals/20-Sync-vs-Async-Communication.md)
+
+## 3. Scalability
+
+- [21. Vertical Scaling](Phase-1-HLD-Fundamentals/21-Vertical-Scaling.md)
+- [22. Horizontal Scaling](Phase-1-HLD-Fundamentals/22-Horizontal-Scaling.md)
+- [23. Stateless Services](Phase-1-HLD-Fundamentals/23-Stateless-Services.md)
+- [24. Load Balancer](Phase-1-HLD-Fundamentals/24-Load-Balancer.md)
+- [25. Reverse Proxy](Phase-1-HLD-Fundamentals/25-Reverse-Proxy.md)
+- [26. Auto Scaling](Phase-1-HLD-Fundamentals/26-Auto-Scaling.md)
+- [27. Horizontal Pod Scaling](Phase-1-HLD-Fundamentals/27-Horizontal-Pod-Scaling.md)
+- [28. Bottleneck Identification](Phase-1-HLD-Fundamentals/28-Bottleneck-Identification.md)
+
+## 4. Load Balancing
+
+- [29. L4 vs L7](Phase-1-HLD-Fundamentals/29-L4-vs-L7.md)
+- [30. Round Robin](Phase-1-HLD-Fundamentals/30-Round-Robin.md)
+- [31. Weighted Round Robin](Phase-1-HLD-Fundamentals/31-Weighted-Round-Robin.md)
+- [32. Least Connections](Phase-1-HLD-Fundamentals/32-Least-Connections.md)
+- [33. IP Hash](Phase-1-HLD-Fundamentals/33-IP-Hash.md)
+- [34. Consistent Hashing](Phase-1-HLD-Fundamentals/34-Consistent-Hashing.md)
+- [35. Health Checks](Phase-1-HLD-Fundamentals/35-Health-Checks.md)
+- [36. Failover](Phase-1-HLD-Fundamentals/36-Failover.md)
 
 # Phase 2 — Database and Storage
 
