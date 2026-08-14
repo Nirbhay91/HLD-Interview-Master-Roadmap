@@ -108,10 +108,45 @@ Each topic will be covered in this sequence:
 
 # Phase 3 — Core Distributed System Components
 
-- [01. Message Queues](Phase-3-Distributed-System-Components/01-Message-Queues.md)
-- [02. Event-Driven Architecture](Phase-3-Distributed-System-Components/02-Event-Driven-Architecture.md)
-- [03. API Design](Phase-3-Distributed-System-Components/03-API-Design.md)
-- [04. Rate Limiter](Phase-3-Distributed-System-Components/04-Rate-Limiter.md)
+## 9. Message Queues
+- [01. Queue](Phase-3-Distributed-System-Components/01-Queue.md)
+- [02. Producer and Consumer](Phase-3-Distributed-System-Components/02-Producer-Consumer.md)
+- [03. Kafka](Phase-3-Distributed-System-Components/03-Kafka.md)
+- [04. RabbitMQ](Phase-3-Distributed-System-Components/04-RabbitMQ.md)
+- [05. Pub/Sub](Phase-3-Distributed-System-Components/05-Pub-Sub.md)
+- [06. Consumer Groups](Phase-3-Distributed-System-Components/06-Consumer-Groups.md)
+- [07. Partition](Phase-3-Distributed-System-Components/07-Partition.md)
+- [08. Offset](Phase-3-Distributed-System-Components/08-Offset.md)
+- [09. Ordering](Phase-3-Distributed-System-Components/09-Ordering.md)
+- [10. Retry](Phase-3-Distributed-System-Components/10-Retry.md)
+- [11. Dead Letter Queue](Phase-3-Distributed-System-Components/11-Dead-Letter-Queue.md)
+
+## 10. Event-Driven Architecture
+- [12. Event](Phase-3-Distributed-System-Components/12-Event.md)
+- [13. Command](Phase-3-Distributed-System-Components/13-Command.md)
+- [14. Event Sourcing](Phase-3-Distributed-System-Components/14-Event-Sourcing.md)
+- [15. CQRS](Phase-3-Distributed-System-Components/15-CQRS.md)
+- [16. Async Processing](Phase-3-Distributed-System-Components/16-Async-Processing.md)
+- [17. Eventual Consistency](Phase-3-Distributed-System-Components/17-Eventual-Consistency.md)
+
+## 11. API Design
+- [18. REST](Phase-3-Distributed-System-Components/18-REST.md)
+- [19. gRPC](Phase-3-Distributed-System-Components/19-gRPC.md)
+- [20. GraphQL](Phase-3-Distributed-System-Components/20-GraphQL.md)
+- [21. WebSocket](Phase-3-Distributed-System-Components/21-WebSocket.md)
+- [22. SSE](Phase-3-Distributed-System-Components/22-SSE.md)
+- [23. Polling](Phase-3-Distributed-System-Components/23-Polling.md)
+- [24. Long Polling](Phase-3-Distributed-System-Components/24-Long-Polling.md)
+- [25. API Gateway](Phase-3-Distributed-System-Components/25-API-Gateway.md)
+- [26. Rate Limiting](Phase-3-Distributed-System-Components/26-Rate-Limiting.md)
+
+## 12. Rate Limiter
+- [27. Token Bucket](Phase-3-Distributed-System-Components/27-Token-Bucket.md)
+- [28. Leaky Bucket](Phase-3-Distributed-System-Components/28-Leaky-Bucket.md)
+- [29. Fixed Window](Phase-3-Distributed-System-Components/29-Fixed-Window.md)
+- [30. Sliding Window](Phase-3-Distributed-System-Components/30-Sliding-Window.md)
+- [31. Distributed Rate Limiting](Phase-3-Distributed-System-Components/31-Distributed-Rate-Limiting.md)
+- [32. Redis-Based Implementation](Phase-3-Distributed-System-Components/32-Redis-Based-Implementation.md)
 
 # Phase 4 — Reliability and Resilience
 - [01. Fault Tolerance](Phase-4-Reliability-and-Resilience/01-Fault-Tolerance.md)
