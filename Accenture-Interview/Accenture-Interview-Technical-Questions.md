@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q16 completed → Solutions will be added one by one.
+> **Status:** Q17 completed → Solutions will be added one by one.
 
 ---
 
@@ -64,7 +64,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q16-Saga-Data-Consistency/README.md)
 
 ### Q17. How do you secure your microservices?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q17-Microservices-Security/README.md)
 
 ### Q18. Explain JWT authentication flow.
 **Status:** ⏳ Pending
@@ -204,7 +204,8 @@ For every question, use this cycle:
 | Q14 | Distributed Transactions — Choreography Saga | ✅ Completed |
 | Q15 | Distributed Transactions — Compensation Transactions | ✅ Completed |
 | Q16 | Distributed Transactions — Saga Data Consistency | ✅ Completed |
-| Q17–Q22 | Security | ⏳ Pending |
+| Q17 | Security — Microservices Security | ✅ Completed |
+| Q18–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
