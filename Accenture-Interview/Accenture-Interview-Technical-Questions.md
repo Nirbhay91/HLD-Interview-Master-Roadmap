@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q31 completed → Solutions will be added one by one.
+> **Status:** Q32 completed → Solutions will be added one by one.
 
 ---
 
@@ -121,7 +121,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q31-Same-HashCode-Collision/README.md)
 
 ### Q32. What is the time complexity before and after Java 8 collision handling?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q32-HashMap-Collision-Time-Complexity/README.md)
 
 ---
 
@@ -219,7 +219,7 @@ For every question, use this cycle:
 | Q29 | Fault Tolerance — Spring Boot Library | ✅ Completed |
 | Q30 | Core Java — HashMap Internal Working | ✅ Completed |
 | Q31 | Core Java — Same hashCode / Collision | ✅ Completed |
-| Q32 | Core Java — HashMap Collision Complexity | ⏳ Pending |
+| Q32 | Core Java — HashMap Collision Complexity | ✅ Completed |
 | Q33 | Coding | ⏳ Pending |
 
 ---
