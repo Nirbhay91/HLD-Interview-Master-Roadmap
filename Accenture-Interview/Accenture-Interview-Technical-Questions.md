@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q32 completed → Solutions will be added one by one.
+> **Status:** Q33 completed → Solutions will be added one by one.
 
 ---
 
@@ -139,7 +139,7 @@
 Bangalore
 ```
 
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q33-Highest-Repeated-Characters-City/README.md)
 
 ---
 
@@ -220,7 +220,7 @@ For every question, use this cycle:
 | Q30 | Core Java — HashMap Internal Working | ✅ Completed |
 | Q31 | Core Java — Same hashCode / Collision | ✅ Completed |
 | Q32 | Core Java — HashMap Collision Complexity | ✅ Completed |
-| Q33 | Coding | ⏳ Pending |
+| Q33 | Coding — Highest Repeated Characters City | ✅ Completed |
 
 ---
 
