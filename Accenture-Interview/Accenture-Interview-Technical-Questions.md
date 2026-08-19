@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q21 completed → Solutions will be added one by one.
+> **Status:** Q22 completed → Solutions will be added one by one.
 
 ---
 
@@ -79,7 +79,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q21-Why-API-Gateway/README.md)
 
 ### Q22. How do you aggregate responses from multiple services?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q22-Response-Aggregation/README.md)
 
 ---
 
@@ -209,7 +209,7 @@ For every question, use this cycle:
 | Q19 | Security — Service-to-Service Authentication | ✅ Completed |
 | Q20 | API Architecture — Frontend to Backend Communication | ✅ Completed |
 | Q21 | API Architecture — Why API Gateway? | ✅ Completed |
-| Q22 | API Architecture — Response Aggregation | ⏳ Pending |
+| Q22 | API Architecture — Response Aggregation | ✅ Completed |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
