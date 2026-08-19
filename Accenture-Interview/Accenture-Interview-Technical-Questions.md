@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q10 completed → Solutions will be added one by one.
+> **Status:** Q11 completed → Solutions will be added one by one.
 
 ---
 
@@ -46,11 +46,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q10-API-Gateway-Service-Routing/README.md)
 
 ### Q11. Why should services communicate using service names instead of IP addresses?
-**Status:** ⏳ Pending
-
----
-
-## Distributed Transactions
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q11-Service-Names-vs-IP-Addresses/README.md)
 
 ### Q12. What is the Saga Pattern?
 **Status:** ⏳ Pending
@@ -206,7 +202,7 @@ For every question, use this cycle:
 | Q8 | Microservices — Service Discovery | ✅ Completed |
 | Q9 | Microservices — Why Service Discovery? | ✅ Completed |
 | Q10 | Microservices — API Gateway Service Routing | ✅ Completed |
-| Q11 | Microservices — Service Names vs IP Addresses | ⏳ Pending |
+| Q11 | Microservices — Service Names vs IP Addresses | ✅ Completed |
 | Q12–Q16 | Distributed Transactions | ⏳ Pending |
 | Q17–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
