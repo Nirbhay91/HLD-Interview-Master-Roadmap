@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Question Bank Created → Solutions will be added one by one.
+> **Status:** Q8 completed → Solutions will be added one by one.
 
 ---
 
@@ -37,7 +37,7 @@
 ## Microservices
 
 ### Q8. Suppose the port of a microservice changes. How will another service identify and send requests to the correct instance?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q08-Microservice-Port-Change-Service-Discovery/README.md)
 
 ### Q9. Why do we use Service Discovery?
 **Status:** ⏳ Pending
@@ -203,7 +203,8 @@ For every question, use this cycle:
 | Range | Topic | Status |
 |---|---|---|
 | Q1–Q7 | AWS | ⏳ Pending |
-| Q8–Q11 | Microservices | ⏳ Pending |
+| Q8 | Microservices — Service Discovery | ✅ Completed |
+| Q9–Q11 | Microservices | ⏳ Pending |
 | Q12–Q16 | Distributed Transactions | ⏳ Pending |
 | Q17–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
