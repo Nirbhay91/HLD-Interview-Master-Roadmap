@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q14 completed → Solutions will be added one by one.
+> **Status:** Q15 completed → Solutions will be added one by one.
 
 ---
 
@@ -58,7 +58,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q14-Choreography-Saga/README.md)
 
 ### Q15. What are Compensation Transactions?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q15-Compensation-Transactions/README.md)
 
 ### Q16. How does Saga maintain data consistency across multiple microservices?
 **Status:** ⏳ Pending
@@ -206,7 +206,8 @@ For every question, use this cycle:
 | Q12 | Distributed Transactions — Saga Pattern | ✅ Completed |
 | Q13 | Distributed Transactions — Saga vs Distributed Transaction | ✅ Completed |
 | Q14 | Distributed Transactions — Choreography Saga | ✅ Completed |
-| Q15–Q16 | Distributed Transactions | ⏳ Pending |
+| Q15 | Distributed Transactions — Compensation Transactions | ✅ Completed |
+| Q16 | Distributed Transactions — Saga Data Consistency | ⏳ Pending |
 | Q17–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
