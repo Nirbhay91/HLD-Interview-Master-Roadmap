@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q29 completed → Solutions will be added one by one.
+> **Status:** Q30 completed → Solutions will be added one by one.
 
 ---
 
@@ -110,8 +110,12 @@
 ### Q29. Which fault tolerance library have you used in Spring Boot?
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q29-Fault-Tolerance-Library-Spring-Boot/README.md)
 
+---
+
+## Core Java — HashMap
+
 ### Q30. Explain HashMap internal working.
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q30-HashMap-Internal-Working/README.md)
 
 ### Q31. What happens when two keys have the same hashCode?
 **Status:** ⏳ Pending
@@ -213,7 +217,8 @@ For every question, use this cycle:
 | Q27 | Fault Tolerance — Cascading Failures | ✅ Completed |
 | Q28 | Fault Tolerance — Preventing Cascading Failures | ✅ Completed |
 | Q29 | Fault Tolerance — Spring Boot Library | ✅ Completed |
-| Q30–Q32 | Core Java / HashMap | ⏳ Pending |
+| Q30 | Core Java — HashMap Internal Working | ✅ Completed |
+| Q31–Q32 | Core Java / HashMap | ⏳ Pending |
 | Q33 | Coding | ⏳ Pending |
 
 ---
