@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q30 completed → Solutions will be added one by one.
+> **Status:** Q31 completed → Solutions will be added one by one.
 
 ---
 
@@ -118,7 +118,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q30-HashMap-Internal-Working/README.md)
 
 ### Q31. What happens when two keys have the same hashCode?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q31-Same-HashCode-Collision/README.md)
 
 ### Q32. What is the time complexity before and after Java 8 collision handling?
 **Status:** ⏳ Pending
@@ -218,7 +218,8 @@ For every question, use this cycle:
 | Q28 | Fault Tolerance — Preventing Cascading Failures | ✅ Completed |
 | Q29 | Fault Tolerance — Spring Boot Library | ✅ Completed |
 | Q30 | Core Java — HashMap Internal Working | ✅ Completed |
-| Q31–Q32 | Core Java / HashMap | ⏳ Pending |
+| Q31 | Core Java — Same hashCode / Collision | ✅ Completed |
+| Q32 | Core Java — HashMap Collision Complexity | ⏳ Pending |
 | Q33 | Coding | ⏳ Pending |
 
 ---
