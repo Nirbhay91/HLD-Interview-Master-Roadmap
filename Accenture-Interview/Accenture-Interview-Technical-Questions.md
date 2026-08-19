@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q26 completed → Solutions will be added one by one.
+> **Status:** Q27 completed → Solutions will be added one by one.
 
 ---
 
@@ -102,7 +102,7 @@
 ## Fault Tolerance
 
 ### Q27. What are Cascading Failures?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q27-Cascading-Failures/README.md)
 
 ### Q28. How do you prevent cascading failures in a microservices architecture?
 **Status:** ⏳ Pending
@@ -214,7 +214,8 @@ For every question, use this cycle:
 | Q24 | High Traffic — Load Balancing | ✅ Completed |
 | Q25 | Scalability — Auto Scaling | ✅ Completed |
 | Q26 | Scalability — Caching & Database Load | ✅ Completed |
-| Q27–Q29 | Fault Tolerance | ⏳ Pending |
+| Q27 | Fault Tolerance — Cascading Failures | ✅ Completed |
+| Q28–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
 | Q33 | Coding | ⏳ Pending |
 
