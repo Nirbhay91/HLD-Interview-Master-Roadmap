@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q13 completed → Solutions will be added one by one.
+> **Status:** Q14 completed → Solutions will be added one by one.
 
 ---
 
@@ -55,7 +55,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q13-Saga-vs-Distributed-Transaction/README.md)
 
 ### Q14. Explain Choreography Saga with an example.
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q14-Choreography-Saga/README.md)
 
 ### Q15. What are Compensation Transactions?
 **Status:** ⏳ Pending
@@ -205,7 +205,8 @@ For every question, use this cycle:
 | Q11 | Microservices — Service Names vs IP Addresses | ✅ Completed |
 | Q12 | Distributed Transactions — Saga Pattern | ✅ Completed |
 | Q13 | Distributed Transactions — Saga vs Distributed Transaction | ✅ Completed |
-| Q14–Q16 | Distributed Transactions | ⏳ Pending |
+| Q14 | Distributed Transactions — Choreography Saga | ✅ Completed |
+| Q15–Q16 | Distributed Transactions | ⏳ Pending |
 | Q17–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
