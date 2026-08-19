@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q8 completed → Solutions will be added one by one.
+> **Status:** Q9 completed → Solutions will be added one by one.
 
 ---
 
@@ -40,7 +40,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q08-Microservice-Port-Change-Service-Discovery/README.md)
 
 ### Q9. Why do we use Service Discovery?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q09-Why-Service-Discovery/README.md)
 
 ### Q10. What is the role of API Gateway in service routing?
 **Status:** ⏳ Pending
@@ -204,7 +204,8 @@ For every question, use this cycle:
 |---|---|---|
 | Q1–Q7 | AWS | ⏳ Pending |
 | Q8 | Microservices — Service Discovery | ✅ Completed |
-| Q9–Q11 | Microservices | ⏳ Pending |
+| Q9 | Microservices — Why Service Discovery? | ✅ Completed |
+| Q10–Q11 | Microservices | ⏳ Pending |
 | Q12–Q16 | Distributed Transactions | ⏳ Pending |
 | Q17–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
