@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q19 completed → Solutions will be added one by one.
+> **Status:** Q20 completed → Solutions will be added one by one.
 
 ---
 
@@ -73,7 +73,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q19-Service-to-Service-Authentication/README.md)
 
 ### Q20. How does a frontend application communicate with backend services in a microservices architecture?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q20-Frontend-to-Backend-Communication/README.md)
 
 ### Q21. Why do we use API Gateway instead of directly calling microservices?
 **Status:** ⏳ Pending
@@ -207,7 +207,8 @@ For every question, use this cycle:
 | Q17 | Security — Microservices Security | ✅ Completed |
 | Q18 | Security — JWT Authentication Flow | ✅ Completed |
 | Q19 | Security — Service-to-Service Authentication | ✅ Completed |
-| Q20–Q22 | Security / API Architecture | ⏳ Pending |
+| Q20 | API Architecture — Frontend to Backend Communication | ✅ Completed |
+| Q21–Q22 | API Architecture | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
