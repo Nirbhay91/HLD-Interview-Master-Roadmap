@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q23 completed → Solutions will be added one by one.
+> **Status:** Q24 completed → Solutions will be added one by one.
 
 ---
 
@@ -89,7 +89,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q23-Handling-Sudden-High-Traffic/README.md)
 
 ### Q24. What is Load Balancing?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q24-Load-Balancing/README.md)
 
 ### Q25. How does Auto Scaling work?
 **Status:** ⏳ Pending
@@ -211,7 +211,8 @@ For every question, use this cycle:
 | Q21 | API Architecture — Why API Gateway? | ✅ Completed |
 | Q22 | API Architecture — Response Aggregation | ✅ Completed |
 | Q23 | High Traffic — Handling Sudden High Traffic | ✅ Completed |
-| Q24–Q26 | High Traffic & Scalability | ⏳ Pending |
+| Q24 | High Traffic — Load Balancing | ✅ Completed |
+| Q25–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
 | Q33 | Coding | ⏳ Pending |
