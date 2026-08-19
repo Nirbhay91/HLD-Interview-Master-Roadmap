@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q11 completed → Solutions will be added one by one.
+> **Status:** Q12 completed → Solutions will be added one by one.
 
 ---
 
@@ -49,7 +49,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q11-Service-Names-vs-IP-Addresses/README.md)
 
 ### Q12. What is the Saga Pattern?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q12-Saga-Pattern/README.md)
 
 ### Q13. Why do we use Saga Pattern instead of a distributed database transaction?
 **Status:** ⏳ Pending
@@ -203,7 +203,8 @@ For every question, use this cycle:
 | Q9 | Microservices — Why Service Discovery? | ✅ Completed |
 | Q10 | Microservices — API Gateway Service Routing | ✅ Completed |
 | Q11 | Microservices — Service Names vs IP Addresses | ✅ Completed |
-| Q12–Q16 | Distributed Transactions | ⏳ Pending |
+| Q12 | Distributed Transactions — Saga Pattern | ✅ Completed |
+| Q13–Q16 | Distributed Transactions | ⏳ Pending |
 | Q17–Q22 | Security | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
