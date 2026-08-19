@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q22 completed → Solutions will be added one by one.
+> **Status:** Q23 completed → Solutions will be added one by one.
 
 ---
 
@@ -86,7 +86,7 @@
 ## High Traffic & Scalability
 
 ### Q23. Suppose one service suddenly receives very high traffic. How will you handle it?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q23-Handling-Sudden-High-Traffic/README.md)
 
 ### Q24. What is Load Balancing?
 **Status:** ⏳ Pending
@@ -210,7 +210,8 @@ For every question, use this cycle:
 | Q20 | API Architecture — Frontend to Backend Communication | ✅ Completed |
 | Q21 | API Architecture — Why API Gateway? | ✅ Completed |
 | Q22 | API Architecture — Response Aggregation | ✅ Completed |
-| Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
+| Q23 | High Traffic — Handling Sudden High Traffic | ✅ Completed |
+| Q24–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
 | Q33 | Coding | ⏳ Pending |
