@@ -5,7 +5,7 @@
 > First, collect and organize all interview questions exactly as asked.
 > Then solve **one question at a time** with an interview-ready answer.
 >
-> **Status:** Q18 completed → Solutions will be added one by one.
+> **Status:** Q19 completed → Solutions will be added one by one.
 
 ---
 
@@ -70,7 +70,7 @@
 **Status:** ✅ Completed — [Detailed Hinglish Solution](Q18-JWT-Authentication-Flow/README.md)
 
 ### Q19. How do services authenticate with each other?
-**Status:** ⏳ Pending
+**Status:** ✅ Completed — [Detailed Hinglish Solution](Q19-Service-to-Service-Authentication/README.md)
 
 ### Q20. How does a frontend application communicate with backend services in a microservices architecture?
 **Status:** ⏳ Pending
@@ -206,7 +206,8 @@ For every question, use this cycle:
 | Q16 | Distributed Transactions — Saga Data Consistency | ✅ Completed |
 | Q17 | Security — Microservices Security | ✅ Completed |
 | Q18 | Security — JWT Authentication Flow | ✅ Completed |
-| Q19–Q22 | Security | ⏳ Pending |
+| Q19 | Security — Service-to-Service Authentication | ✅ Completed |
+| Q20–Q22 | Security / API Architecture | ⏳ Pending |
 | Q23–Q26 | High Traffic & Scalability | ⏳ Pending |
 | Q27–Q29 | Fault Tolerance | ⏳ Pending |
 | Q30–Q32 | Core Java / HashMap | ⏳ Pending |
